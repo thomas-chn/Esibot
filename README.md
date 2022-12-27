@@ -9,3 +9,7 @@ Esibot was developed at the beginning of my first year of prep at the Esisar sch
 
 The bot worked for an entire year before it was stopped due to the difficulty of hosting it on free servers.
 Esibot was last updated in March 2022. No bugs were reported between this date and its discontinuation in June 2022. If someone wishes to restart the program, they are welcome to use my code.
+
+
+<img src="images/Screenshot.png" alt="Screenshot of an Esibot message on Discord">
+<img src="images/Example schedule.png" alt="Image published by Esibot for the week of March 7th to 11th">
