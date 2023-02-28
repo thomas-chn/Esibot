@@ -1,5 +1,6 @@
 # Esibot
-Esibot is a Python program that allows you to download, parse, and display the weekly schedule from the servers of the Esisar school. It supports the iCalendar format and converts it into a well-presented, colored image that is then published on a Discord text channel.
+Esibot is a Discord bot programmed in Python that regularly downloads, parses, and displays the weekly schedule from the Esisar school servers.
+It supports the iCalendar format and converts it into a well-presented, colored image that is then published on a Discord text channel.
 
 The "configs.py" file allows you to create as many schedules as you want, each being published on a different Discord channel and having different visual customization. A color can be associated with each subject and it is possible to rename the subjects using this configuration file. On weekends, the schedule for the following week is automatically downloaded. During the week, a timeline scrolls through the corresponding day.
 
